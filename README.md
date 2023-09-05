@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 Я веб-разработчик.
+
+### Языки и инструменты которые я изучаю:
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
 
 <!--
 **Vann4/Vann4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

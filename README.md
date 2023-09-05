@@ -1,6 +1,6 @@
 <div id="Hello-ru">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&pause=1000&color=20D5FF&background=FFFFFF&center=true&vCenter=true&width=500&height=40&lines=%D0%92%D1%81%D0%B5%D0%BC+%D0%BF%D1%80%D0%B8%D0%B2%D0%B5%D1%82%F0%9F%91%8B;%D0%AF+%D1%83%D0%B2%D0%BB%D0%B5%D0%BA%D0%B0%D1%8E%D1%81%D1%8C+%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%D0%BC!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&pause=1000&background=0048BD00&center=true&vCenter=true&width=500&lines=%D0%92%D1%81%D0%B5%D0%BC+%D0%BF%D1%80%D0%B8%D0%B2%D0%B5%D1%82+%F0%9F%91%8B+;%D0%AF+%D1%83%D0%B2%D0%BB%D0%B5%D0%BA%D0%B0%D1%8E%D1%81%D1%8C+%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%D0%BC!)](https://git.io/typing-svg)
 </div>
 <hr>
 
@@ -32,7 +32,7 @@
 
 <div id="Hello-en">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&pause=1000&color=20D5FF&background=FFFFFF&center=true&vCenter=true&width=300&height=40&lines=Hello%2C+everyone%F0%9F%91%8B;I'm+into+programming!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&pause=1000&background=0048BD00&center=true&vCenter=true&width=300&lines=Hello%2C+everybody+%F0%9F%91%8B+;I'm+into+programming!)](https://git.io/typing-svg)
 </div>
 
 ### [EN] Languages and tools I am learning:

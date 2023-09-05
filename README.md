@@ -4,7 +4,7 @@
 </div>
 <hr>
 
-### Языки и инструменты которые я изучаю:
+### [RU] Языки и инструменты которые я изучаю:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
@@ -16,9 +16,10 @@
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/murzi7)
 - 📫 lesniku7765@gmail.com
 
-### Моя статистика:
-<div style="justify-content: center; display: flex;">
+<div style="display: flex; flex-direction: column; align-items: center;">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vann4&layout=donut-vertical)](https://github.com/Vann4/github-readme-stats)
+## Статистика профиля:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vann4&show_icons=true&theme=radical)
+## Статистика языков:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vann4&layout=donut-vertical)](https://github.com/Vann4/github-readme-stats)
 </div>

@@ -1,9 +1,8 @@
 <div>
 
-    [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Всем+привет👋+Я+веб-разработчик.)](https://git.io/typing-svg)
-</div>
+    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&pause=1000&color=78F3F7&background=000000&center=true&vCenter=true&width=335&height=40&lines=%D0%92%D1%81%D0%B5%D0%BC+%D0%BF%D1%80%D0%B8%D0%B2%D0%B5%D1%82%F0%9F%91%8B+%D0%AF+%D0%B2%D0%B5%D0%B1-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA.)](https://git.io/typing-svg)
 
-### Hi there 👋 Я веб-разработчик.
+</div>
 <hr>
 
 ### Языки и инструменты которые я изучаю:
@@ -14,5 +13,6 @@
 <hr>
 
 ### Связь со мной:
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]()
-[![Vkontakte] (https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logo Color=4F7DB3)]()
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/murzi7)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/murzi7)
+

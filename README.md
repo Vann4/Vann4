@@ -28,10 +28,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vann4&layout=donut-vertical)](https://github.com/Vann4/github-readme-stats)
 </div>
 
-<div id="gif-ru" align="center">
-  <img src="https://github.com/Vann4/Vann4/blob/main/gif/wink.gif" width="300"/>
-</div>
-
 <hr>
 
 <div id="Hello-en">
@@ -61,8 +57,4 @@
 <div id="info-languages-en" align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vann4&layout=donut-vertical)](https://github.com/Vann4/github-readme-stats)
-</div>
-
-<div id="gif-ru" align="center">
-  <img src="https://github.com/Vann4/Vann4/blob/main/gif/wink.gif" width="300"/>
 </div>

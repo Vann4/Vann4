@@ -29,7 +29,7 @@
 </div>
 
 <div id="gif-ru" align="center">
-  <img src="https://github.com/Vann4/Vann4/blob/main/gif/wink.gif.mp4" width="300"/>
+  <img src="https://github.com/Vann4/Vann4/blob/main/gif/wink.gif" width="300"/>
 </div>
 
 <hr>
@@ -64,5 +64,5 @@
 </div>
 
 <div id="gif-ru" align="center">
-  <img src="https://github.com/Vann4/Vann4/blob/main/gif/wink.gif.mp4" width="300"/>
+  <img src="https://github.com/Vann4/Vann4/blob/main/gif/wink.gif" width="300"/>
 </div>

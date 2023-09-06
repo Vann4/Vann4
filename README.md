@@ -25,7 +25,7 @@
 ## Статистика языков:
 <div id="info-languages-ru" align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vann4&locale=ru&layout=donut-vertical)](https://github.com/Vann4/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vann4&locale=ru&card_width=450&layout=donut-vertical)](https://github.com/Vann4/github-readme-stats)
 </div>
 
 <hr>
